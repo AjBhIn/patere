@@ -1,0 +1,4 @@
+Amount of selected seats:
+2
+Selected seats:
+['B9', 'C9']
